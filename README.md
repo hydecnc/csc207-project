@@ -1,13 +1,9 @@
-# Team Project
+# Soundscope
 
-Please keep this up-to-date with information about your project throughout the term.
+Soundscope is a feature-packed music recording software that can not only recognize music but also can play and get extended information about the recording.
 
-The readme should include information such as:
-- a summary of what your application is all about
-- a list of the user stories, along with who is responsible for each one
-- information about the API(s) that your project uses 
-- screenshots or animations demonstrating current functionality
+## User stories
 
-By keeping this README up-to-date,
-your team will find it easier to prepare for the final presentation
-at the end of the term.
+## API(s) Used
+
+## Demo
