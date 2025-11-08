@@ -1,4 +1,4 @@
-package app;
+package org.wavelabs.soundscope;
 
 public class Main {
     public static void main(String[] args) {
